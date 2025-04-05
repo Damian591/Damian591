@@ -40,6 +40,6 @@ Feel free to explore my projects to see how I'm applying my knowledge and passio
 
 ## 💬 Reach Out
 - GitHub: [https://github.com/damian](https://github.com/damian591)
-- LinkedIn: [www.linkedin.com/in/damian-grigorovic](www.linkedin.com/in/damian-grigorovic)
+- LinkedIn: [https://linkedin.com/in/damian-grigorovic](www.linkedin.com/in/damian-grigorovic)
 
 Feel free to explore my repositories and projects!
