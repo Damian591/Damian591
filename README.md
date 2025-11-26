@@ -1,6 +1,6 @@
 # Hi, I'm Damian 👋
 
-Hi, I'm Damian, a third-year IT student at Vilnius Gediminas Technical University. I'm passionate about web development, software engineering, and networking, with a particular interest in data transmission and how information flows across networks. Always eager to learn new technologies, I focus on building strong foundations in web technologies, problem-solving, and application design.
+Hi, I'm Damian, a fourth-year IT student at Vilnius Gediminas Technical University. I'm passionate about web development, software engineering, and networking, with a particular interest in data transmission and how information flows across networks. Always eager to learn new technologies, I focus on building strong foundations in web technologies, problem-solving, and application design.
 
 I enjoy exploring different aspects of software development, from front-end to back-end, and am excited to dive deeper into full-stack development. Additionally, I am fascinated by the complexities of data transfer, networking protocols, and how systems communicate over the internet.
 
